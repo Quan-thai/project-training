@@ -1,7 +1,7 @@
 package bt2;
 
 import java.util.Scanner;
-
+//a Java program that takes a year from user and print whether that year is a leap year or not
 public class testData {
     public int year;
     Scanner scanner = new Scanner(System.in);
